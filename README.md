@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with my shelf
 - 💬 Ask me about code
 - 📫 How to reach me: githud
-- 😄 Pronouns: ...
+- 😄 Pronouns: low code
 - ⚡ Fun fact: ...
 -->
